@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmmanuel
+- 👋 Hi, I’m Emmanuel
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything related to Softwere Development
